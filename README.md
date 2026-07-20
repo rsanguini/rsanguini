@@ -29,6 +29,8 @@ I'm a Software Engineering student passionate about building software that solve
 
 <br><br>
 
+##
+
 ### Contact
 
 <p align="left">
