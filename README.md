@@ -1,6 +1,6 @@
 <h1 align="center">Rafael Sanguini</h1>
 
-<p align="center" magin-bottom="300">
+<p align="center">
   <kbd><b>&nbsp;&nbsp;Software Engineer&nbsp;&nbsp;</b></kbd>
 </p>
 
@@ -74,20 +74,18 @@ I'm a Software Engineering student passionate about building software that solve
 ### Contact
 
 <p align="center">
-
   <a href="mailto:rafaelcolagrossi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="72"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" hspace="10"/>
   </a>
-
-  <a href="https://www.linkedin.com/in/rafael-sanguini-b49ab33aa/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="75" />
+  
+  <a href="https://linkedin.com/in/rafael-sanguini-b49ab33aa">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" hspace="10"/>
   </a>
-
+  
   <a href="https://rafaelsanguini.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" width="100" />
+    <img src="https://skillicons.dev/icons?i=vercel" height="42" hspace="10"/>
   </a>
 </p>
-
 
 <div align="center">
 
