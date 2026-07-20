@@ -76,17 +76,16 @@ I'm a Software Engineering student passionate about building software that solve
 <p align="center">
 
   <a href="mailto:rafaelcolagrossi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="72"/>
   </a>
 
-<a href="https://www.linkedin.com/in/rafael-sanguini-b49ab33aa/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/rafael-sanguini-b49ab33aa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="75" />
+  </a>
 
-<a href="https://rafaelsanguini.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
+  <a href="https://rafaelsanguini.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" width="100" />
+  </a>
 </p>
 
 
@@ -96,4 +95,4 @@ I'm a Software Engineering student passionate about building software that solve
 
 </div>
 
----
+
