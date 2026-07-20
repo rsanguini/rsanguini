@@ -32,7 +32,7 @@ I'm a Software Engineering student passionate about building software that solve
 ### Contact
 
 <p align="left">
-  <a href="mailto:rafaelcolagrossi@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="35" hspace="10"/></a><a href="https://linkedin.com/in/rafael-sanguini-b49ab33aa"><img src="https://skillicons.dev/icons?i=linkedin" height="35" hspace="10"/></a><a href="https://rafaelsanguini.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" height="35" hspace="10"/></a>
+  <a href="mailto:rafaelcolagrossi@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="35" hspace="10"/></a><a href="https://linkedin.com/in/rafaelsanguini"><img src="https://skillicons.dev/icons?i=linkedin" height="35" hspace="10"/></a><a href="https://rafaelsanguini.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" height="35" hspace="10"/></a>
 </p>
 
 <br>
