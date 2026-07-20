@@ -1,18 +1,10 @@
 <h1 align="center">Rafael Sanguini</h1>
 
-<p align="center">
+<p align="center" magin-bottom="300">
   <kbd><b>&nbsp;&nbsp;Software Engineer&nbsp;&nbsp;</b></kbd>
 </p>
 
-<br>
-
-## About
-
-I'm a Software Engineering student passionate about building software that solves real problems.
-
-I enjoy transforming ideas into reliable applications, writing clean and maintainable code, and continuously improving through hands-on projects. My goal is to grow as a Full Stack Developer while building a strong foundation in software engineering.
-
-Feel free to explore my projects to see what I've been building.
+I'm a Software Engineering student passionate about building software that solves real problems. I enjoy transforming ideas into reliable applications, writing clean and maintainable code, and continuously improving through hands-on projects. My goal is to grow as a Full Stack Developer while building a strong foundation in software engineering. - Feel free to explore my projects to see what I've been building.
 
 ---
 
@@ -109,8 +101,10 @@ Feel free to explore my projects to see what I've been building.
 
 ---
 
-<p align="center">
+<div align="center">
 
-<b>Open to internship, junior, freelance and collaboration opportunities.</b>
+ <strong> ⭐ Open to Work ⭐ </strong>
 
-</p>
+<sub> Always open to new opportunities, collaborations, and exciting projects. </sub>
+
+</div>
