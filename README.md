@@ -1,28 +1,116 @@
-Hi!! My name is Rafael Sanguini
-========================================================================================================================================
+<h1 align="center">Rafael Sanguini</h1>
 
-I'm a Computer Engineering Student and Software Developer
-----------------------------------------------------
-
-Web developer for 3 years, I started my journey with C and truly delved into frontend development. Specializing in creating modern, responsive, and interactive interfaces with HTML, CSS, and JavaScript. Combining solid programming fundamentals with intuitive design. I also have excellent backend skills.
-
-* 🌍  I'm based in São Paulo, Brasil
-* 🖥️  See my portfolio at [github](http://github.com/sanguinirafa76)
-* ✉️  You can contact me at [rafaelcolagrossi@gmail.com](mailto:rafaelcolagrossi@gmail.com)
-* 🧠  I'm currently learning Phyton, Assembly, Typescript and deepening in C
-* 👥  I'm looking to collaborate on ideas projects, project manager and assistance with codes
-* 💬  We are currently working on a project that cannot yet be revealed, but promises to be a lot of fun for the gaming community. Stay tuned for more updates on our project.
-
-
-### Skills
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
+<p align="center">
+  <kbd><b>&nbsp;&nbsp;Software Engineer&nbsp;&nbsp;</b></kbd>
 </p>
 
+<br>
 
-### Socials
+## About
 
-<p align="left"> <a href="https://www.github.com/sanguinirafa76g" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/rafael-sanguini-colagrossi-b49ab33aa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/sanguinirafa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
+I'm a Software Engineering student passionate about building software that solves real problems.
 
-<hr>
+I enjoy transforming ideas into reliable applications, writing clean and maintainable code, and continuously improving through hands-on projects. My goal is to grow as a Full Stack Developer while building a strong foundation in software engineering.
+
+Feel free to explore my projects to see what I've been building.
+
+---
+
+# 💼 Stacks
+
+### Frontend
+
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36"/>
+  </a>
+</p>
+
+### Backend
+
+<p>
+  <a href="https://nodejs.org/">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36"/>
+  </a>
+
+  <a href="https://www.python.org/">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36"/>
+  </a>
+
+  <a href="https://www.postgresql.org/">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36"/>
+  </a>
+</p>
+
+### Programming Languages
+
+<p>
+  <a href="https://learn.microsoft.com/en-us/cpp/c-language/">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36"/>
+  </a>
+
+  <img src="https://img.icons8.com/color/96/assembly.png" width="36"/>
+</p>
+
+### Tools
+
+<p>
+<a href="https://git-scm.com/">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36"/>
+</a>
+
+<a href="https://www.docker.com/">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36"/>
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36"/>
+</a>
+
+<a href="https://www.figma.com/">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36"/>
+</a>
+
+<a href="https://vercel.com/">
+<img src="https://cdn.simpleicons.org/vercel/white" width="36"/>
+</a>
+
+<a href="https://supabase.com/">
+<img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="36"/>
+</a>
+
+</p>
+
+---
+
+# 📬 Contact
+
+<p align="center">
+
+<a href="mailto:rafaelcolagrossi@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rafael-sanguini-b49ab33aa/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://rafaelsanguini.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<b>Open to internship, junior, freelance and collaboration opportunities.</b>
+
+</p>
