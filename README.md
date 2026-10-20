@@ -1,7 +1,7 @@
 <h1 align="center">Rafael Sanguini</h1>
 
 <p align="center">
-  <kbd><b>&nbsp;&nbsp;Software Engineer&nbsp;&nbsp;</b></kbd>
+  <kbd><b>&nbsp;&nbsp;Estudante de Engenharia de Software&nbsp;&nbsp;</b></kbd>
 </p>
 
 I'm a Software Engineering student passionate about building software that solves real problems. I enjoy transforming ideas into reliable applications, writing clean and maintainable code, and continuously improving through hands-on projects. My goal is to grow as a Full Stack Developer while building a strong foundation in software engineering. - Feel free to explore my projects to see what I've been building.
