@@ -20,12 +20,17 @@
 
 ---
 
-Olá! Sou Rafael Sanguini, estudante de Engenharia de Software e desenvolvedor em formação, interessado em compreender como a tecnologia funciona e transformar ideias em soluções reais.
+##  Olá, eu sou o Rafael
 
-Tenho explorado diferentes áreas da programação, desde a lógica e a manipulação de memória com C e Assembly 8086 até o desenvolvimento web e a construção de aplicações. Busco fortalecer meus fundamentos técnicos, aplicar meus conhecimentos em projetos práticos e desenvolver software bem estruturado, eficiente e útil.
+Estudante de **Engenharia de Software na PUC-Campinas** (conclusão prevista em 2029) e **desenvolvedor web em formação**, em busca do meu **primeiro estágio** em desenvolvimento de software.
 
-Atualmente, estou construindo minha trajetória para me tornar um desenvolvedor versátil, com fundamentos sólidos em programação e capacidade de atuar no desenvolvimento de aplicações de ponta a ponta.
+Comecei pela base: escrevi programas em **C** e **Assembly 8086**, onde precisei lidar com memória, registradores e lógica de verdade. Foi isso que me fez gostar de entender *como* as coisas funcionam, e não só de fazê-las funcionar. Hoje levo essa curiosidade para a web, criando interfaces, integrando APIs e publicando o que construo.
 
+Meu projeto principal é o **InvestX**, uma plataforma de acompanhamento e simulação de investimentos que desenvolvo sozinho desde fevereiro de 2026, com dados de mercado, gráficos e um chatbot. Ainda está em evolução, e é nele que mais aprendo.
+
+Na faculdade, trabalho em equipe com Scrum/Kanban, prototipo telas no Figma e já explorei hardware com **VHDL e FPGA**. Tenho **inglês avançado** e gosto de aprender com feedback.
+
+📍 Jundiaí, SP · aberto a estágio presencial (Campinas/Jundiaí), híbrido ou remoto
 
 ###  Minha jornada
 
@@ -39,41 +44,66 @@ Atualmente, estou construindo minha trajetória para me tornar um desenvolvedor 
 
 ---
 
+<br>
 
-##  Skills & Tecnologias
-
-<div align="center">
-
-Tecnologias que utilizo em projetos e conhecimentos que venho desenvolvendo ao longo da minha formação.
+## 🛠️ Tecnologias
 
 
-###  Linguagens de programação
+<b>Programação e Web</b><br>
+<img height="22" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img height="22" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img height="22" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img height="22" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+<img height="22" src="https://img.shields.io/badge/Assembly_8086-6E4C13?style=flat-square" />
 
-<img src="https://skillicons.dev/icons?i=c,python,js&theme=dark" height="35" alt="C, Python e JavaScript"/>
-<img src="https://img.icons8.com/color/96/assembly.png" width="37" />
-<img src="https://img.shields.io/badge/VHDL-345563?style=flat-square&logoColor=white" height="25" alt="VHDL com logo FPGA"/>
+<br>
 
-###  Desenvolvimento web
+<b>Integrações e Dados</b><br>
+<img height="22" src="https://img.shields.io/badge/APIs_REST-009688?style=flat-square" />
+<img height="22" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img height="22" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img height="22" src="https://img.shields.io/badge/BRModelo-4A4A4A?style=flat-square" />
 
-<img src="https://skillicons.dev/icons?i=html,css,nodejs&theme=dark" height="35" alt="HTML, CSS e Node.js"/>
+<br>
 
-###  Bancos de dados
+<b>Engenharia e Sistemas Digitais</b><br>
+<img height="22" src="https://img.shields.io/badge/VHDL-543978?style=flat-square" />
+<img height="22" src="https://img.shields.io/badge/FPGA_Intel-0071C5?style=flat-square&logo=intel&logoColor=white" />
+<img height="22" src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" height="35" alt="MySQL e PostgreSQL"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" height="25" alt="Oracle Database"/>
+<br>
 
-###  Design e prototipação
+<b>Design</b><br>
+<img height="22" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img height="22" src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" height="35" alt="Figma"/>
-  <img src="https://static.vecteezy.com/system/resources/previews/032/329/171/non_2x/canva-icon-logo-symbol-free-png.png" height="35" alt="Canva"/>
-</p>
+<br>
 
-###  Ferramentas
+<b>Ferramentas e Publicação</b><br>
+<img height="22" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img height="22" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img height="22" src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img height="22" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img height="22" src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square" />
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="35" alt="Git, GitHub e VS Code"/>
+<br>
 
-</div>
+<b>Métodos de Trabalho</b><br>
+<img height="22" src="https://img.shields.io/badge/Scrum-009FDA?style=flat-square" />
+<img height="22" src="https://img.shields.io/badge/Kanban-0052CC?style=flat-square" />
+
+<br>
+
+<b>Em Estudo</b><br>
+<img height="22" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img height="22" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img height="22" src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+
+<br>
+
+<b>Idiomas</b><br>
+**Inglês (avançado)  ·  Espanhol (intermediário)  · I taliano (básico)**
+
 
 ---
 
