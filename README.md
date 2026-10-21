@@ -20,11 +20,9 @@
 
 ---
 
-Olá! Sou Rafael Sanguini, estudante de Engenharia de Software e desenvolvedor em formação, movido pela curiosidade de entender como a tecnologia funciona e pela vontade de transformar ideias em soluções reais.
+Olá! Sou Rafael Sanguini, estudante de Engenharia de Software e desenvolvedor em formação, interessado em compreender como a tecnologia funciona e transformar ideias em soluções reais.
 
-Minha jornada na programação vai da lógica e da manipulação de memória em C e Assembly 8086 ao desenvolvimento de interfaces web e à construção de aplicações cada vez mais completas. Gosto de explorar diferentes tecnologias, entender o que acontece por trás de cada linha de código e descobrir como diferentes componentes se conectam para formar um sistema.
-
-Mais do que aprender uma linguagem, quero compreender os princípios que permitem criar software bem estruturado, eficiente e útil. Por isso, busco aplicar meus conhecimentos em projetos práticos, experimentar novas abordagens e encarar cada desafio como uma oportunidade de evoluir tecnicamente.
+Tenho explorado diferentes áreas da programação, desde a lógica e a manipulação de memória com C e Assembly 8086 até o desenvolvimento web e a construção de aplicações. Busco fortalecer meus fundamentos técnicos, aplicar meus conhecimentos em projetos práticos e desenvolver software bem estruturado, eficiente e útil.
 
 Atualmente, estou construindo minha trajetória para me tornar um desenvolvedor versátil, com fundamentos sólidos em programação e capacidade de atuar no desenvolvimento de aplicações de ponta a ponta.
 
