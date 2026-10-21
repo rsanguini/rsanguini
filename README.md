@@ -1,46 +1,103 @@
-<h1 align="center">Rafael Sanguini</h1>
+<div align="center">
 
-<p align="center">
-  <kbd><b>&nbsp;&nbsp;Estudante de Engenharia de Software&nbsp;&nbsp;</b></kbd>
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:7C3AED,100:DC2626&height=190&section=header&text=Rafael%20Sanguini&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Estudante%20de%20Engenharia%20de%20Software&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Cabeçalho de Rafael Sanguini"/>
 
-I'm a Software Engineering student passionate about building software that solves real problems. I enjoy transforming ideas into reliable applications, writing clean and maintainable code, and continuously improving through hands-on projects. My goal is to grow as a Full Stack Developer while building a strong foundation in software engineering. - Feel free to explore my projects to see what I've been building.
+  <a href="https://github.com/rsanguini">
+    <img src="https://img.shields.io/badge/GitHub-rsanguini-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rafaelsanguini/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://rafaelsanguini.vercel.app">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-Acesse-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/>
+  </a>
+
+  <br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+c%C3%B3digo.;Aprendendo+com+projetos+reais.;Evoluindo+um+commit+de+cada+vez." alt="Animação com frases sobre desenvolvimento"/>
+
+</div>
 
 ---
 
-### Languages and Tools
+Olá! Sou Rafael Sanguini, estudante de Engenharia de Software e desenvolvedor em formação, movido pela curiosidade de entender como a tecnologia funciona e pela vontade de transformar ideias em soluções reais.
 
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="27" style="padding-right:15px;" align="left" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="27" style="padding-right:15px;" align="left" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="27" style="padding-right:15px;" align="left" /></a>
-  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="27" style="padding-right:15px;" align="left" /></a>
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="27" style="padding-right:15px;" align="left" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="27" style="padding-right:15px;" align="left" /></a>
-  <a href="https://learn.microsoft.com/en-us/cpp/c-language/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="27" style="padding-right:15px;" align="left" /></a>
-  <img src="https://img.icons8.com/color/96/assembly.png" width="27" style="padding-right:15px;" align="left" />
-  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="27" style="padding-right:15px;" align="left" /></a>
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="27" style="padding-right:15px;" align="left" /></a>
-  <a href="https://github.com/"><img src="https://cdn.simpleicons.org/github/white" width="27" style="padding-right:15px;" align="left" /></a>
-  <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="27" style="padding-right:15px;" align="left" /></a>
-  <a href="https://vercel.com/"><img src="https://cdn.simpleicons.org/vercel/white" width="27" style="padding-right:15px;" align="left" /></a>
-  <a href="https://supabase.com/"><img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="27" style="padding-right:15px;" align="left" /></a>
-</p>
+Minha jornada na programação vai da lógica e da manipulação de memória em C e Assembly 8086 ao desenvolvimento de interfaces web e à construção de aplicações cada vez mais completas. Gosto de explorar diferentes tecnologias, entender o que acontece por trás de cada linha de código e descobrir como diferentes componentes se conectam para formar um sistema.
 
-<br><br>
+Mais do que aprender uma linguagem, quero compreender os princípios que permitem criar software bem estruturado, eficiente e útil. Por isso, busco aplicar meus conhecimentos em projetos práticos, experimentar novas abordagens e encarar cada desafio como uma oportunidade de evoluir tecnicamente.
 
-##
+Atualmente, estou construindo minha trajetória para me tornar um desenvolvedor versátil, com fundamentos sólidos em programação e capacidade de atuar no desenvolvimento de aplicações de ponta a ponta.
 
-### Contact
 
-<p align="left">
-  <a href="mailto:rafaelcolagrossi@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="35" hspace="10"/></a><a href="https://linkedin.com/in/rafaelsanguini"><img src="https://skillicons.dev/icons?i=linkedin" height="35" hspace="10"/></a><a href="https://rafaelsanguini.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" height="35" hspace="10"/></a>
-</p>
+###  Minha jornada
+
+- 🎓 **Formação:** Engenharia de Software.
+- 💻 **Prática:** desenvolvimento de projetos com diferentes linguagens e tecnologias.
+- 🧠 **Interesses:** lógica de programação, desenvolvimento web, sistemas e arquitetura de software.
+- 📚 **Mentalidade:** aprendizado contínuo, curiosidade técnica e melhoria constante.
+- 🚀 **Objetivo profissional:** desenvolver soluções de qualidade e crescer na área de tecnologia.
 
 <br>
 
+---
+
+
+##  Skills & Tecnologias
+
 <div align="center">
-  <strong> ⭐ Open to Work ⭐ </strong>
+
+Tecnologias que utilizo em projetos e conhecimentos que venho desenvolvendo ao longo da minha formação.
+
+
+###  Linguagens de programação
+
+<img src="https://skillicons.dev/icons?i=c,python,js&theme=dark" height="35" alt="C, Python e JavaScript"/>
+<img src="https://img.icons8.com/color/96/assembly.png" width="37" />
+<img src="https://img.shields.io/badge/VHDL-345563?style=flat-square&logoColor=white" height="25" alt="VHDL com logo FPGA"/>
+
+###  Desenvolvimento web
+
+<img src="https://skillicons.dev/icons?i=html,css,nodejs&theme=dark" height="35" alt="HTML, CSS e Node.js"/>
+
+###  Bancos de dados
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" height="35" alt="MySQL e PostgreSQL"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" height="25" alt="Oracle Database"/>
+
+###  Design e prototipação
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" height="35" alt="Figma"/>
+  <img src="https://static.vecteezy.com/system/resources/previews/032/329/171/non_2x/canva-icon-logo-symbol-free-png.png" height="35" alt="Canva"/>
+</p>
+
+###  Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="35" alt="Git, GitHub e VS Code"/>
+
 </div>
 
+---
+
+<br>
+
+##  Vamos trabalhar juntos?
+
+Estou aberto a oportunidades profissionais, colaboração em projetos e troca de conhecimentos. Entre em contato pelos canais abaixo!
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rafaelsanguini/"><img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://rafaelsanguini.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Acessar-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/></a>
+<a href="mailto:rafaelcolagrossi@gmail.com"><img src="https://img.shields.io/badge/Email-Entre%20em%20contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
+<a href="https://github.com/rsanguini"><img src="https://img.shields.io/badge/GitHub-Acompanhe-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+
+  <br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:7C3AED,100:111827&height=100&section=footer" width="100%" alt="Rodapé decorativo"/>
+
+  <sub>Construindo conhecimento. Desenvolvendo soluções. Evoluindo continuamente.</sub>
+
+</div>
 
